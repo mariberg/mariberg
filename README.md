@@ -13,7 +13,7 @@
 
 Hi, I'm Marika, a fullstack developer with a keen interest in cloud engineering. 
 
-- 🔭 I’m currently working on completing [the free AWS Cloud project bootcamp](https://aws.cloudprojectbootcamp.com/) by Andrew Brown and I'm daily amazed by the amount of skills I have gained through this bootcamp.
+- 🔭 I recently completed [the free AWS Cloud project bootcamp](https://aws.cloudprojectbootcamp.com/) by Andrew Brown and I'm daily amazed by the amount of skills I have gained through this bootcamp.
 - 🌱 I’m currently learning towards AWS Certified Solutions Architect Associate certification. 
 
 </br>
