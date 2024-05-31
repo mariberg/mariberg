@@ -15,7 +15,7 @@ Hi, I'm Marika, a full-stack developer with a passion for backend development.
 
 - 🔭  I enjoy using my skills to build the logic and functionality behind web and mobile applications. Troubleshooting backend issues and crafting elegant solutions is what drives me.
 - ☁️I'm also highly interested in cloud engineering and have solidified my practical experience with my three AWS certifications.
-- 🌱 I’m currently learning Ruby.
+- 🌱 I’m currently diving into test-driven development.
 
 </br>
 </br>
