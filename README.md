@@ -29,4 +29,4 @@ Hi, I'm Marika, a full-stack developer with a passion for backend development.
 </br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,js,bash,docker,nodejs,postgres,mongodb,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,js,dynamodb,nodejs,terraform,react,docker)](https://skillicons.dev)
